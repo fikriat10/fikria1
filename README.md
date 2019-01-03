@@ -1,2 +1,2 @@
 # fikria1
-他和
+The first one
